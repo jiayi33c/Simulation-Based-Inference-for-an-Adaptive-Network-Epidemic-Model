@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+.venv/
+
+abc_mcmc_results/
+rejection_abc_results/
+results/
+
+*.tar.gz
+*.png
+*.log
+
+final_accepted_infected_plus_rewiring.csv
+final_results_infected_plus_rewiring.csv
