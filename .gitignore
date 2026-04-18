@@ -5,10 +5,16 @@ __pycache__/
 abc_mcmc_results/
 rejection_abc_results/
 results/
+results*/
+*_results/
+*_results_new/
+*_extracted/
 
 *.tar.gz
 *.png
 *.log
+*.pdf
 
 final_accepted_infected_plus_rewiring.csv
 final_results_infected_plus_rewiring.csv
+abc_mcmc_vs_rejection_1m_*.csv
