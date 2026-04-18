@@ -18,3 +18,6 @@ results*/
 final_accepted_infected_plus_rewiring.csv
 final_results_infected_plus_rewiring.csv
 abc_mcmc_vs_rejection_1m_*.csv
+
+!report_results/
+!report_results/**

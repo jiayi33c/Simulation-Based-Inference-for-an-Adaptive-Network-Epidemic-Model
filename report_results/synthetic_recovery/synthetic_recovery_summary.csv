@@ -1,0 +1,2 @@
+validation,beta_truth,beta_recovered_mean,beta_recovered_std,gamma_truth,gamma_recovered_mean,gamma_recovered_std,rho_truth,rho_recovered_mean,rho_recovered_std
+synthetic_truth_recovery,0.168664,0.17497589428003227,0.022820064114313456,0.089009,0.09520854553206516,0.016565735123984248,0.31759,0.3200386661692138,0.05288559004914723
